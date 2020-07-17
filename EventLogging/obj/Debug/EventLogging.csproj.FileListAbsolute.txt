@@ -1,0 +1,14 @@
+C:\Users\mdrakakis\Desktop\PersonalApps\EventLogging\EventLogging\bin\Debug\EventLogging.exe.config
+C:\Users\mdrakakis\Desktop\PersonalApps\EventLogging\EventLogging\bin\Debug\EventLogging.exe
+C:\Users\mdrakakis\Desktop\PersonalApps\EventLogging\EventLogging\bin\Debug\EventLogging.pdb
+C:\Users\mdrakakis\Desktop\PersonalApps\EventLogging\EventLogging\obj\Debug\EventLogging.csprojAssemblyReference.cache
+C:\Users\mdrakakis\Desktop\PersonalApps\EventLogging\EventLogging\obj\Debug\EventLogging.csproj.CoreCompileInputs.cache
+C:\Users\mdrakakis\Desktop\PersonalApps\EventLogging\EventLogging\obj\Debug\EventLogging.exe
+C:\Users\mdrakakis\Desktop\PersonalApps\EventLogging\EventLogging\obj\Debug\EventLogging.pdb
+C:\Users\mdrakakis\Desktop\PersonalApps\C# Projects\EventLogging\EventLogging\bin\Debug\EventLogging.exe.config
+C:\Users\mdrakakis\Desktop\PersonalApps\C# Projects\EventLogging\EventLogging\bin\Debug\EventLogging.exe
+C:\Users\mdrakakis\Desktop\PersonalApps\C# Projects\EventLogging\EventLogging\bin\Debug\EventLogging.pdb
+C:\Users\mdrakakis\Desktop\PersonalApps\C# Projects\EventLogging\EventLogging\obj\Debug\EventLogging.csprojAssemblyReference.cache
+C:\Users\mdrakakis\Desktop\PersonalApps\C# Projects\EventLogging\EventLogging\obj\Debug\EventLogging.csproj.CoreCompileInputs.cache
+C:\Users\mdrakakis\Desktop\PersonalApps\C# Projects\EventLogging\EventLogging\obj\Debug\EventLogging.exe
+C:\Users\mdrakakis\Desktop\PersonalApps\C# Projects\EventLogging\EventLogging\obj\Debug\EventLogging.pdb
